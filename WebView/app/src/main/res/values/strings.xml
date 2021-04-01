@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="tx1">Indique el web</string>
+    <string name="btIr">Ir al sitio</string>
+    <string name="btCerrar">Cerrar</string>
+
+</resources>

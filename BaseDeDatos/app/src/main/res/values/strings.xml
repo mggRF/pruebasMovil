@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Base De Datos</string>
+    <string name="etCod">Codigo de producto</string>
+    <string name="etDescri">Descripcion</string>
+    <string name="etPrecio">Precio del producto</string>
+    <string name="btReg">Registrar producto</string>
+    <string name="btBus">Buscar producto</string>
+    <string name="btMod">Modificar producto</string>
+    <string name="btEli">Eliminar producto</string>
+</resources>

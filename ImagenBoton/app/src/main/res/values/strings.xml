@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImagenBoton</string>
+    <string name="ib">La imagen se puede añadir a MIPMAP, nombre en minuscula y pequeñas (50x50)</string>
+</resources>

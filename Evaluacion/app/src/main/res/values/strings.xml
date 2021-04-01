@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Evaluacion</string>
+    <string name="titulo">Resultado de la evaluacion</string>
+    <string name="pQuimi">Quimica</string>
+    <string name="pMates">Matemáticas</string>
+    <string name="pFisi">Física</string>
+    <string name="btEval">Evaluacion</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Suma y Resta</string>
+    <string name="op1">Operando 1</string>
+    <string name="op2">Operando 2</string>
+    <string name="suma">Sumar</string>
+    <string name="resta">Restar</string>
+    <string name="multiplica">Multiplicar</string>
+    <string name="divide">Dividir</string>
+    <string name="boton">Calcular</string>
+    <string name="tv">Resultado</string>
+</resources>
